@@ -1,5 +1,7 @@
 # Welcome to Casey Dyer's GitHub Profile! 👋
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="827db57c-27e2-44b2-84f4-224d81137ada" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 Hi, I'm Casey Dyer, a transitioning military professional with 8 years of experience in the Air Force. My background spans data analytics, IT, intelligence, and management. I have a passion for using SQL and R to explore large datasets and uncover meaningful insights. 
 
 ## 📂 What You'll Find Here
